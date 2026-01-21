@@ -79,6 +79,9 @@ Vercel Deployment: https://vercel.com
 
 
 
+
+
+
 My Thinking : 
 
 Lets list what problems students face when learning : 
@@ -92,3 +95,31 @@ stuff too keep them occupied. Lets see what we can do.
 
 Ok so now the solution to these problems is to make an app that does not allow you to switch tabs. (LOCKDOWN MODE)
 -> It helps students learn using flashcards, popquizes , and based on learning adujusts the scale.
+
+
+
+
+
+
+
+DEVELOPED app is a personalized education platform that adapts learning content
+to each student’s familiarity, pace, and preferences using AI.
+
+## Features
+- Adaptive AI-generated notes
+- Smart flashcards with regeneration
+- Dynamic quizzes with instant feedback
+- Structured subjects and chapters
+- Personalized learning experience
+
+## Tech Stack
+- Next.js (App Router)
+- Tailwind CSS
+- Groq AI API
+- Vercel
+
+
+
+
+## Live Demo
+👉https://hackathon-umber-beta.vercel.app/
