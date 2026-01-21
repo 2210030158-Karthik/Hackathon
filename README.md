@@ -63,7 +63,7 @@ Styling: Tailwind CSS
 AI Model Provider: Groq API or Gemini free API
 
 Deployment: Vercel
-##
+
 References
 Next.js: https://nextjs.org
 
@@ -82,7 +82,7 @@ Vercel Deployment: https://vercel.com
 
 
 
-My Thinking : 
+**My Thinking** : 
 
 Lets list what problems students face when learning : 
     -> Lack of stimulus
