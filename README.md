@@ -3,28 +3,28 @@ THIS FOLDER CONTAINS THE HACKATHON PROJECT FOR STAR AI PLACEMENT.
 HACKATHON DETAILS : 
 Theme: Personalized Education
 The hackathon focuses on Personalized Education – AI-Powered Learning and Teaching.
-
+##
 Students must submit innovative project ideas. Selected ideas will be developed and showcased during the hackathon.
-
+##
 Project Documentation and Presentation Guidelines
 Each participant must submit a detailed project document in Google Slides or PDF, covering the following:
-
+##
 Project Description
 
 Explain the concept and objectives of your project.
-
+##
 Purpose
 
 Describe the problem it solves and the impact it aims to create.
-
+##
 Scope
 
 Outline potential use cases and future scalability.
-
+##
 Features Used and Integrated
 
 List key features and how they enhance the solution.
-
+##
 Project Submission Guidelines
 Submit your project using the official submission form. The submission must include:
 
@@ -39,7 +39,7 @@ A working live app deployed on Vercel or any other platform.
 Project Documentation Link
 
 Link to the detailed project documentation.
-
+##
 Evaluation Criteria
 Projects will be evaluated based on:
 
@@ -52,7 +52,7 @@ Technical Implementation
 AI Usage (mandatory)
 
 Overall Innovation and Impact
-
+##
 Prefered Tech Stack
 Framework: Next.js or React.js
 
