@@ -63,7 +63,7 @@ Styling: Tailwind CSS
 AI Model Provider: Groq API or Gemini free API
 
 Deployment: Vercel
-
+##
 References
 Next.js: https://nextjs.org
 
@@ -76,7 +76,7 @@ Groq API: https://groq.com
 Vercel Deployment: https://vercel.com
 
 
-
+####
 
 
 
@@ -127,6 +127,6 @@ to each student’s familiarity, pace, and preferences using AI.
 
 
 
-
+##
 
 OOh and i forgot to mention the most important feature -> on the top right of the website when we click on the gear wheel we can set the "TONE" for the teacher AI. It will adjust the level of complexity of word choice, Adjust to the uptake of the child (ex. a child is a slow paced learner we can set it to that), and help explain with examples , theory or balance them both based on the prefrences of the user. THIS CHANGES IN REALTIME. Please try and check too.
